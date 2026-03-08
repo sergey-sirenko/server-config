@@ -1,8 +1,21 @@
 {
- "servers":[
-   "ssn1978.synology1.me",
-   "planfactfinance1.ru",
-  "89.208.74.1611",
-  "ssn1978.keenetic.link1"
- ]
+"#type": "jv8:Array",
+"#value": [
+{
+"#type": "jxs:string",
+"#value": "ssn1978.synology.me"
+},
+{
+"#type": "jxs:string",
+"#value": "ssn1978.keenetic.link"
+},
+{
+"#type": "jxs:string",
+"#value": "planfactfinance.ru"
+},
+{
+"#type": "jxs:string",
+"#value": "89.208.74.161"
+}
+]
 }
